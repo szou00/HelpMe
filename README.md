@@ -1,5 +1,5 @@
-# Solar System Simulation 
+# HelpMe! Application
 
-A simulation of the solar system to challenge my skills in Java at the end of the semester. 
+An IOS app intended to provide resources for incarcerated individuals who are too often from marganalized, minority groups. Developed with Swift and XCode. 
 
 Link to Repository: https://github.com/szou00/MKS22X-FinalProject
